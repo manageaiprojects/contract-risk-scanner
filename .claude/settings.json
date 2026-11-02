@@ -14,7 +14,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node .claude/hooks/pre_tool_use.js"
+            "command": "node .claude/hooks/pre-tool-use.js"
           }
         ]
       }
