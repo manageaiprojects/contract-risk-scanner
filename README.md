@@ -12,4 +12,4 @@ Every flagged clause is quoted from the contract with a confidence rating, and t
 
 To try it in Claude Code, run `/scan-contract input/sample_contract.txt`.
 
-![alt text](image.png)
+![VS Code showing the project file tree, the README open in the editor, and a terminal with the git log](image.png)
